@@ -30,15 +30,15 @@ After logging in to CentOS, open a terminal to start using the command line.
 ## COMMANDS
 ### Switch to User:
 ```su username```
-# View IP Address:
+### View IP Address:
 ```ip a```
-# Create a Directory:
+### Create a Directory:
 ```mkdir <directory_name>```
-# Change to the New Directory:
+### Change to the New Directory:
 ```cd <directory_name>```
-# Edit the Hostname File:
+### Edit the Hostname File:
 ```vi /etc/hostname```
-# View the Content of the Hostname File:
+### View the Content of the Hostname File:
 ```cat /etc/hostname```
 ## OUTPUT
 
