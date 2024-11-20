@@ -42,8 +42,8 @@ After logging in to CentOS, open a terminal to start using the command line.
 ```cat /etc/hostname```
 ## OUTPUT
 
-### REG NUMBER:212223040048
-### NAME:GOGINENI BIDHISHA
+### REG NUMBER:212222110004
+### NAME:GOGINENI AMRUTHA
  ![image](https://github.com/user-attachments/assets/c06c90d8-3bee-466a-b2f0-97a5e00c5c41)
 
 ## RESULT
